@@ -10,3 +10,5 @@
 
 5. How many Vegetarian and Meatlovers were ordered by each customer?
 
+6. What was the maximum number of burgers delivered in a single order?
+
