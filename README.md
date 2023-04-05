@@ -15,3 +15,4 @@
 7. For each customer, how many delivered burgers had at least 1 change and
 how many had no changes?
 
+8. What was the total volume of burgers ordered for each hour of the day?
