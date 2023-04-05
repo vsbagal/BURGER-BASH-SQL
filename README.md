@@ -12,3 +12,6 @@
 
 6. What was the maximum number of burgers delivered in a single order?
 
+7. For each customer, how many delivered burgers had at least 1 change and
+how many had no changes?
+
