@@ -18,3 +18,5 @@ how many had no changes?
 8. What was the total volume of burgers ordered for each hour of the day?
 
 9. How many runners signed up for each 1 week period? 
+
+10.What was the average distance travelled for each customer?
