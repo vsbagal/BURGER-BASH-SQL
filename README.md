@@ -19,4 +19,4 @@ how many had no changes?
 
 9. How many runners signed up for each 1 week period? 
 
-10.What was the average distance travelled for each customer?
+10. What was the average distance travelled for each customer?
