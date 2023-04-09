@@ -1,6 +1,6 @@
 ## BURGER-BASH-SQL
 
-<img src="https://c.ndtvimg.com/2022-06/gp4k2jro_burgers_625x300_20_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350?im=FaceCrop,algorithm=dnn,width=1200,height=886" alt="Girl in a jacket" width="300" height="800">
+<img src="https://c.ndtvimg.com/2022-06/gp4k2jro_burgers_625x300_20_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350?im=FaceCrop,algorithm=dnn,width=1200,height=886" alt="Girl in a jacket" width="800" height="400">
 
 1. How many burgers were ordered?
 
